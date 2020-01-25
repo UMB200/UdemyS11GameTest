@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="UdemyS11PackageDemo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../UdemyS11PackageDemo/out/artifacts/UdemyS11PackageDemo_jar/UdemyS11PackageDemo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
